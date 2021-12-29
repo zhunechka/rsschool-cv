@@ -9,13 +9,13 @@
 *********
 
 ### Contact information:
-* Discord:   zhunechka#1124
-* Phone Life:): +375 25 75 72 795
-* Phone MTS: +375 29 264 54 44
-* E-mail: doronenko.art@yandex.ru
-* Telegram:  [t.me/Zhunechka](адрес "@Zhunechka")
-* GitHub:  [github.com/zhunechka](адрес "zhunechka")
-* Location:  Belarus, Borisov [54.223900, 28.511590](адрес "Belarus, Borisov")
+* __Discord:__   zhunechka#1124
+* __Phone Life:):__ +375 25 75 72 795
+* __Phone MTS:__ +375 29 264 54 44
+* __E-mail:__ doronenko.art@yandex.ru
+* __Telegram:__  [t.me/Zhunechka](адрес "@Zhunechka")
+* __GitHub:__  [github.com/zhunechka](адрес "zhunechka")
+* __Location:__  Belarus, Borisov [54.223900, 28.511590](адрес "Belarus, Borisov")
  
 *********
 ### About myself:
@@ -39,13 +39,13 @@ Nothing yet…   Unfortunately not in IT…
 
 *********
 ###  Education and courses:
-* BELARUSIAN STATE TECHNOLOGICAL UNIVERSITY.  2001-2006.
+* __BELARUSIAN STATE TECHNOLOGICAL UNIVERSITY.__  2001-2006.
   ###### *Specialty: Engineer, Technologist*
   
-* BELARUSIAN STATE ECONOMIC UNIVERSITY -- Graduate School of Management and Business.  2012-2015.
+* __BELARUSIAN STATE ECONOMIC UNIVERSITY__ -- Graduate School of Management and Business.  2012-2015.
   ###### *Specialty: Economist*
     
-*   [https://ru.code-basics.com/](адрес "ru.code-basics.com")
+*   __[https://ru.code-basics.com/](адрес "ru.code-basics.com")__
      + HTML *for beginners*  11 часов
      + Cascading Style Sheets (CSS)  *for beginners*  8 часов
     
